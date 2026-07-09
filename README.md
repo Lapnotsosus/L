@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
@@ -66,4 +67,16 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Lapnotsosus/L/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lapnotsosus/L/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
