@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lapnotsosus/L/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lapnotsosus/L/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Lapnotsosus/L/tree/master/1480-running-sum-of-1d-array) |
@@ -67,6 +68,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Lapnotsosus/L/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
