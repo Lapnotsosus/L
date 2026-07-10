@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lapnotsosus/L/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lapnotsosus/L/tree/master/0485-max-consecutive-ones) |
+| [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Lapnotsosus/L/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Lapnotsosus/L/tree/master/1672-richest-customer-wealth) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lapnotsosus/L/tree/master/0001-two-sum) |
+| [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
 | ------- |
@@ -86,4 +89,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Lapnotsosus/L/tree/master/0035-search-insert-position) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
