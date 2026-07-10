@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Lapnotsosus/L/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
