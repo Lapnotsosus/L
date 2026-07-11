@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lapnotsosus/L/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lapnotsosus/L/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Lapnotsosus/L/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
