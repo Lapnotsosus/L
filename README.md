@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lapnotsosus/L/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lapnotsosus/L/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lapnotsosus/L/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
@@ -52,16 +54,19 @@
 | [0009-palindrome-number](https://github.com/Lapnotsosus/L/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
@@ -94,6 +99,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Lapnotsosus/L/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 ## Counting Sort
 |  |
 | ------- |
