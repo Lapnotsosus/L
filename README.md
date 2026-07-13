@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lapnotsosus/L/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lapnotsosus/L/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
@@ -103,9 +105,14 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
