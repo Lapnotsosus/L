@@ -24,6 +24,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Lapnotsosus/L/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Lapnotsosus/L/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lapnotsosus/L/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Lapnotsosus/L/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lapnotsosus/L/tree/master/1929-concatenation-of-array) |
@@ -33,6 +34,7 @@
 | [0001-two-sum](https://github.com/Lapnotsosus/L/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
+| [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
+| [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
