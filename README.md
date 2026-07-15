@@ -65,6 +65,7 @@
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Lapnotsosus/L/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Lapnotsosus/L/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
