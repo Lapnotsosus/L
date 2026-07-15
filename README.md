@@ -131,6 +131,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -139,6 +140,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
