@@ -15,8 +15,7 @@ public:
                 o.pop();
                 else if (x==']'  && o.top()=='[')
                 o.pop();
-                else
-                return false;
+                else return false;
             }
         }
         return o.empty();
