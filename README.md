@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lapnotsosus/L/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0009-palindrome-number](https://github.com/Lapnotsosus/L/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 ## Sorting
 |  |
