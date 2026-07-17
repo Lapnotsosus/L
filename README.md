@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lapnotsosus/L/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lapnotsosus/L/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
@@ -131,6 +134,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
@@ -141,6 +145,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
