@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Lapnotsosus/L/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Lapnotsosus/L/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Lapnotsosus/L/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Lapnotsosus/L/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/Lapnotsosus/L/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -142,6 +144,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Lapnotsosus/L/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 ## Stack
 |  |
