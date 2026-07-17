@@ -55,6 +55,7 @@
 | [0027-remove-element](https://github.com/Lapnotsosus/L/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Lapnotsosus/L/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lapnotsosus/L/tree/master/0283-move-zeroes) |
 ## Math
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Lapnotsosus/L/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
