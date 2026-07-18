@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Lapnotsosus/L/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lapnotsosus/L/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lapnotsosus/L/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Lapnotsosus/L/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Lapnotsosus/L/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lapnotsosus/L/tree/master/0055-jump-game) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lapnotsosus/L/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lapnotsosus/L/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Lapnotsosus/L/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Lapnotsosus/L/tree/master/0125-valid-palindrome) |
