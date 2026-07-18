@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lapnotsosus/L/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Lapnotsosus/L/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lapnotsosus/L/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Lapnotsosus/L/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
@@ -104,6 +106,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Lapnotsosus/L/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Lapnotsosus/L/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
