@@ -1,7 +1,7 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
+      //  sort(nums.begin(),nums.end());
         set<int>s;
         for(int x : nums)
         s.insert(x);
