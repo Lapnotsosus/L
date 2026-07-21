@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Lapnotsosus/L/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lapnotsosus/L/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/Lapnotsosus/L/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
@@ -56,6 +57,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lapnotsosus/L/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
