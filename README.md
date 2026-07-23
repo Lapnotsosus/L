@@ -27,6 +27,7 @@
 | [0414-third-maximum-number](https://github.com/Lapnotsosus/L/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lapnotsosus/L/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Lapnotsosus/L/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Lapnotsosus/L/tree/master/0605-can-place-flowers) |
@@ -59,6 +60,7 @@
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Lapnotsosus/L/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
@@ -191,10 +193,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
