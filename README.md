@@ -112,6 +112,7 @@
 | [0009-palindrome-number](https://github.com/Lapnotsosus/L/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Lapnotsosus/L/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Lapnotsosus/L/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lapnotsosus/L/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Lapnotsosus/L/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Lapnotsosus/L/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Lapnotsosus/L/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Lapnotsosus/L/tree/master/0509-fibonacci-number) |
@@ -246,6 +248,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Lapnotsosus/L/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Lapnotsosus/L/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
