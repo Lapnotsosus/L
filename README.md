@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Lapnotsosus/L/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -108,6 +109,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lapnotsosus/L/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -150,6 +152,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Lapnotsosus/L/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Lapnotsosus/L/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 ## Matrix
