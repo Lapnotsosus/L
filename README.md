@@ -76,6 +76,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lapnotsosus/L/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Lapnotsosus/L/tree/master/0560-subarray-sum-equals-k) |
@@ -140,6 +141,7 @@
 | [0260-single-number-iii](https://github.com/Lapnotsosus/L/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lapnotsosus/L/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lapnotsosus/L/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Lapnotsosus/L/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lapnotsosus/L/tree/master/0628-maximum-product-of-three-numbers) |
@@ -253,6 +256,7 @@
 | [0125-valid-palindrome](https://github.com/Lapnotsosus/L/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
