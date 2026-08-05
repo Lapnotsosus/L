@@ -26,6 +26,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Lapnotsosus/L/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Lapnotsosus/L/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lapnotsosus/L/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
@@ -200,6 +201,7 @@
 | [0055-jump-game](https://github.com/Lapnotsosus/L/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Lapnotsosus/L/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Lapnotsosus/L/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Lapnotsosus/L/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lapnotsosus/L/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lapnotsosus/L/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Lapnotsosus/L/tree/master/0509-fibonacci-number) |
