@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Lapnotsosus/L/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lapnotsosus/L/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lapnotsosus/L/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Lapnotsosus/L/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Lapnotsosus/L/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Lapnotsosus/L/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lapnotsosus/L/tree/master/0054-spiral-matrix) |
@@ -72,6 +73,7 @@
 | [0001-two-sum](https://github.com/Lapnotsosus/L/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Lapnotsosus/L/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Lapnotsosus/L/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Lapnotsosus/L/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Lapnotsosus/L/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lapnotsosus/L/tree/master/0229-majority-element-ii) |
