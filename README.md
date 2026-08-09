@@ -54,6 +54,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lapnotsosus/L/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
+| [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Lapnotsosus/L/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
@@ -95,6 +96,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Lapnotsosus/L/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
+| [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -149,6 +151,7 @@
 | [0371-sum-of-two-integers](https://github.com/Lapnotsosus/L/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Lapnotsosus/L/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lapnotsosus/L/tree/master/0628-maximum-product-of-three-numbers) |
+| [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Lapnotsosus/L/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -273,6 +276,7 @@
 | [0455-assign-cookies](https://github.com/Lapnotsosus/L/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Lapnotsosus/L/tree/master/0605-can-place-flowers) |
+| [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
