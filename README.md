@@ -285,6 +285,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Lapnotsosus/L/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lapnotsosus/L/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
@@ -308,6 +309,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lapnotsosus/L/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lapnotsosus/L/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
@@ -363,5 +365,6 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lapnotsosus/L/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lapnotsosus/L/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
