@@ -79,6 +79,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lapnotsosus/L/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lapnotsosus/L/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Lapnotsosus/L/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Lapnotsosus/L/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -167,6 +168,7 @@
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lapnotsosus/L/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lapnotsosus/L/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lapnotsosus/L/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
