@@ -94,6 +94,7 @@
 | [0041-first-missing-positive](https://github.com/Lapnotsosus/L/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Lapnotsosus/L/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Lapnotsosus/L/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Lapnotsosus/L/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +140,7 @@
 | [0125-valid-palindrome](https://github.com/Lapnotsosus/L/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lapnotsosus/L/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Lapnotsosus/L/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Lapnotsosus/L/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lapnotsosus/L/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
@@ -161,6 +163,7 @@
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Lapnotsosus/L/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Lapnotsosus/L/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lapnotsosus/L/tree/master/0371-sum-of-two-integers) |
@@ -410,5 +413,6 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lapnotsosus/L/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lapnotsosus/L/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
