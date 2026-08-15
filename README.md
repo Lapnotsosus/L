@@ -82,6 +82,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lapnotsosus/L/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Lapnotsosus/L/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lapnotsosus/L/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Lapnotsosus/L/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lapnotsosus/L/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -313,6 +314,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Lapnotsosus/L/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Stack
 |  |
 | ------- |
