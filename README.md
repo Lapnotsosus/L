@@ -57,6 +57,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lapnotsosus/L/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Lapnotsosus/L/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lapnotsosus/L/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Lapnotsosus/L/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lapnotsosus/L/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -316,6 +318,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Lapnotsosus/L/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lapnotsosus/L/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
