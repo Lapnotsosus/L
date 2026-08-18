@@ -286,6 +286,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lapnotsosus/L/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Lapnotsosus/L/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lapnotsosus/L/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lapnotsosus/L/tree/master/1004-max-consecutive-ones-iii) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Counting Sort
@@ -448,4 +449,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Lapnotsosus/L/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
