@@ -80,6 +80,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lapnotsosus/L/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,6 +117,7 @@
 | [0904-fruit-into-baskets](https://github.com/Lapnotsosus/L/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
+| [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lapnotsosus/L/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -158,6 +160,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Math
 |  |
@@ -290,6 +293,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Lapnotsosus/L/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Lapnotsosus/L/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lapnotsosus/L/tree/master/1004-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Counting Sort
 |  |
