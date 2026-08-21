@@ -115,6 +115,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Lapnotsosus/L/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
@@ -159,6 +160,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lapnotsosus/L/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Lapnotsosus/L/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
@@ -363,6 +365,7 @@
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lapnotsosus/L/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2315-count-asterisks](https://github.com/Lapnotsosus/L/tree/master/2315-count-asterisks) |
@@ -433,6 +436,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lapnotsosus/L/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lapnotsosus/L/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Lapnotsosus/L/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Lapnotsosus/L/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lapnotsosus/L/tree/master/1004-max-consecutive-ones-iii) |
