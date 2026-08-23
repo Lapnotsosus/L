@@ -66,6 +66,7 @@
 | [0875-koko-eating-bananas](https://github.com/Lapnotsosus/L/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Lapnotsosus/L/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Lapnotsosus/L/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Lapnotsosus/L/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
