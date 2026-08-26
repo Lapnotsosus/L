@@ -96,6 +96,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lapnotsosus/L/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Lapnotsosus/L/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lapnotsosus/L/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Lapnotsosus/L/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lapnotsosus/L/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3668-restore-finishing-order](https://github.com/Lapnotsosus/L/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Lapnotsosus/L/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lapnotsosus/L/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
