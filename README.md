@@ -73,6 +73,7 @@
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lapnotsosus/L/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lapnotsosus/L/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Lapnotsosus/L/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -315,6 +316,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lapnotsosus/L/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Lapnotsosus/L/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lapnotsosus/L/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lapnotsosus/L/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Counting Sort
