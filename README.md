@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lapnotsosus/L/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lapnotsosus/L/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Lapnotsosus/L/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lapnotsosus/L/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lapnotsosus/L/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
