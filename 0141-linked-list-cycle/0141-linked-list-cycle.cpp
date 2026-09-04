@@ -9,14 +9,14 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        unordered_map<ListNode*,int>seen;
-        ListNode* curr=head;
+        unordered_set<ListNode*>set;
+        ListNode* curr = head;
         while (curr != nullptr)
         {
-            seen[curr]++;
-            if (seen[curr] == 2)
+            if(set.count(curr))
             return true;
-            curr = curr->next;
+            set.insert(curr);
+            curr=curr->next;
         }
         return false;
     }
