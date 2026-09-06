@@ -46,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Lapnotsosus/L/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lapnotsosus/L/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lapnotsosus/L/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Lapnotsosus/L/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Lapnotsosus/L/tree/master/0455-assign-cookies) |
@@ -124,6 +125,7 @@
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lapnotsosus/L/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lapnotsosus/L/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
@@ -222,6 +224,7 @@
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Lapnotsosus/L/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Lapnotsosus/L/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lapnotsosus/L/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/Lapnotsosus/L/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Lapnotsosus/L/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lapnotsosus/L/tree/master/0628-maximum-product-of-three-numbers) |
@@ -484,6 +487,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Lapnotsosus/L/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lapnotsosus/L/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lapnotsosus/L/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sliding Window
 |  |
 | ------- |
@@ -547,4 +551,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Lapnotsosus/L/tree/master/0187-repeated-dna-sequences) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lapnotsosus/L/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
