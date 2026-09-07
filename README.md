@@ -137,6 +137,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
+| [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Lapnotsosus/L/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
@@ -279,6 +280,7 @@
 | [0455-assign-cookies](https://github.com/Lapnotsosus/L/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Lapnotsosus/L/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lapnotsosus/L/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
@@ -433,6 +435,7 @@
 | [0556-next-greater-element-iii](https://github.com/Lapnotsosus/L/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lapnotsosus/L/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2315-count-asterisks](https://github.com/Lapnotsosus/L/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
