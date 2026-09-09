@@ -249,6 +249,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lapnotsosus/L/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lapnotsosus/L/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lapnotsosus/L/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3848-check-digitorial-permutation](https://github.com/Lapnotsosus/L/tree/master/3848-check-digitorial-permutation) |
 | [3870-count-commas-in-range](https://github.com/Lapnotsosus/L/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Lapnotsosus/L/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lapnotsosus/L/tree/master/3875-construct-uniform-parity-array-i) |
@@ -385,6 +386,7 @@
 | [1051-height-checker](https://github.com/Lapnotsosus/L/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
+| [3848-check-digitorial-permutation](https://github.com/Lapnotsosus/L/tree/master/3848-check-digitorial-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
