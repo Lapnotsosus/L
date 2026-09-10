@@ -75,6 +75,7 @@
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lapnotsosus/L/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lapnotsosus/L/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Lapnotsosus/L/tree/master/1046-last-stone-weight) |
@@ -247,6 +248,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Lapnotsosus/L/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Lapnotsosus/L/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Lapnotsosus/L/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lapnotsosus/L/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lapnotsosus/L/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -298,6 +300,7 @@
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/Lapnotsosus/L/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lapnotsosus/L/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -407,6 +410,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lapnotsosus/L/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -484,6 +488,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lapnotsosus/L/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Lapnotsosus/L/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lapnotsosus/L/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lapnotsosus/L/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
@@ -517,6 +522,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lapnotsosus/L/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 ## Timsort
 |  |
 | ------- |
@@ -602,4 +608,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lapnotsosus/L/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
