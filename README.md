@@ -124,6 +124,7 @@
 | [0169-majority-element](https://github.com/Lapnotsosus/L/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Lapnotsosus/L/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Lapnotsosus/L/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Lapnotsosus/L/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Lapnotsosus/L/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lapnotsosus/L/tree/master/0349-intersection-of-two-arrays) |
@@ -439,6 +440,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lapnotsosus/L/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Lapnotsosus/L/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Lapnotsosus/L/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Lapnotsosus/L/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
