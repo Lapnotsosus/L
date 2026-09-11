@@ -95,6 +95,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Lapnotsosus/L/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Lapnotsosus/L/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lapnotsosus/L/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
@@ -430,6 +431,7 @@
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Lapnotsosus/L/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Lapnotsosus/L/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -502,6 +504,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Lapnotsosus/L/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lapnotsosus/L/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lapnotsosus/L/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Lapnotsosus/L/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Merge Sort
 |  |
 | ------- |
