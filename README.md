@@ -68,6 +68,7 @@
 | [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lapnotsosus/L/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
+| [0817-linked-list-components](https://github.com/Lapnotsosus/L/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Lapnotsosus/L/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Lapnotsosus/L/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
@@ -151,6 +152,7 @@
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
+| [0817-linked-list-components](https://github.com/Lapnotsosus/L/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/Lapnotsosus/L/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
@@ -180,6 +182,7 @@
 | [0234-palindrome-linked-list](https://github.com/Lapnotsosus/L/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lapnotsosus/L/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lapnotsosus/L/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/Lapnotsosus/L/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Lapnotsosus/L/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lapnotsosus/L/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
