@@ -191,6 +191,7 @@
 | [0817-linked-list-components](https://github.com/Lapnotsosus/L/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Lapnotsosus/L/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lapnotsosus/L/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Lapnotsosus/L/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [0881-boats-to-save-people](https://github.com/Lapnotsosus/L/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Lapnotsosus/L/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Lapnotsosus/L/tree/master/0922-sort-array-by-parity-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Lapnotsosus/L/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lapnotsosus/L/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
