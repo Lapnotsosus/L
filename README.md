@@ -25,6 +25,7 @@
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Lapnotsosus/L/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lapnotsosus/L/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Lapnotsosus/L/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Lapnotsosus/L/tree/master/0118-pascals-triangle) |
@@ -285,6 +286,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Lapnotsosus/L/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Lapnotsosus/L/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
@@ -699,4 +701,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Lapnotsosus/L/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
