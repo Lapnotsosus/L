@@ -94,6 +94,7 @@
 | [1672-richest-customer-wealth](https://github.com/Lapnotsosus/L/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lapnotsosus/L/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lapnotsosus/L/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Lapnotsosus/L/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lapnotsosus/L/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lapnotsosus/L/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -163,6 +164,7 @@
 | [0904-fruit-into-baskets](https://github.com/Lapnotsosus/L/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Lapnotsosus/L/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Lapnotsosus/L/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lapnotsosus/L/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lapnotsosus/L/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -515,6 +517,7 @@
 | [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lapnotsosus/L/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lapnotsosus/L/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2315-count-asterisks](https://github.com/Lapnotsosus/L/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
