@@ -18,7 +18,6 @@ public:
 
         int left = solve(root->left);
         int right = solve(root->right);
-        int height = max(left,right);
         return max(left,right)+1;
     }
     bool isBalanced(TreeNode* root) {
