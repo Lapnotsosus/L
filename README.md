@@ -172,6 +172,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lapnotsosus/L/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lapnotsosus/L/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Lapnotsosus/L/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3668-restore-finishing-order](https://github.com/Lapnotsosus/L/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lapnotsosus/L/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lapnotsosus/L/tree/master/3731-find-missing-elements) |
@@ -290,6 +291,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lapnotsosus/L/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lapnotsosus/L/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lapnotsosus/L/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Lapnotsosus/L/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lapnotsosus/L/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lapnotsosus/L/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3848-check-digitorial-permutation](https://github.com/Lapnotsosus/L/tree/master/3848-check-digitorial-permutation) |
@@ -349,6 +351,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Lapnotsosus/L/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lapnotsosus/L/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Lapnotsosus/L/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3731-find-missing-elements](https://github.com/Lapnotsosus/L/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -527,6 +530,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lapnotsosus/L/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2315-count-asterisks](https://github.com/Lapnotsosus/L/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Lapnotsosus/L/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -537,6 +541,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Lapnotsosus/L/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lapnotsosus/L/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
