@@ -51,6 +51,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Lapnotsosus/L/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Lapnotsosus/L/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Lapnotsosus/L/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Lapnotsosus/L/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lapnotsosus/L/tree/master/0485-max-consecutive-ones) |
@@ -149,6 +150,7 @@
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Lapnotsosus/L/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
@@ -325,6 +327,7 @@
 | [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Lapnotsosus/L/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Lapnotsosus/L/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Lapnotsosus/L/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Lapnotsosus/L/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Lapnotsosus/L/tree/master/0506-relative-ranks) |
