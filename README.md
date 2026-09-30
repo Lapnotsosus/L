@@ -385,6 +385,7 @@
 | [1929-concatenation-of-array](https://github.com/Lapnotsosus/L/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lapnotsosus/L/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/Lapnotsosus/L/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lapnotsosus/L/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
@@ -501,6 +502,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lapnotsosus/L/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Lapnotsosus/L/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -535,6 +537,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lapnotsosus/L/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2315-count-asterisks](https://github.com/Lapnotsosus/L/tree/master/2315-count-asterisks) |
+| [2390-removing-stars-from-a-string](https://github.com/Lapnotsosus/L/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lapnotsosus/L/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Lapnotsosus/L/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Queue
