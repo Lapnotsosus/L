@@ -72,6 +72,7 @@
 | [0697-degree-of-an-array](https://github.com/Lapnotsosus/L/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Lapnotsosus/L/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Lapnotsosus/L/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lapnotsosus/L/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0781-rabbits-in-forest](https://github.com/Lapnotsosus/L/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/Lapnotsosus/L/tree/master/0817-linked-list-components) |
@@ -502,6 +503,7 @@
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Lapnotsosus/L/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Lapnotsosus/L/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lapnotsosus/L/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
@@ -510,6 +512,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Lapnotsosus/L/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
