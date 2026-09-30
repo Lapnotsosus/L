@@ -498,6 +498,7 @@
 | [0496-next-greater-element-i](https://github.com/Lapnotsosus/L/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Lapnotsosus/L/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lapnotsosus/L/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -529,6 +530,7 @@
 | [0692-top-k-frequent-words](https://github.com/Lapnotsosus/L/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lapnotsosus/L/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lapnotsosus/L/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lapnotsosus/L/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lapnotsosus/L/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
