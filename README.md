@@ -30,6 +30,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lapnotsosus/L/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Lapnotsosus/L/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Lapnotsosus/L/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lapnotsosus/L/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Lapnotsosus/L/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lapnotsosus/L/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lapnotsosus/L/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -269,6 +270,7 @@
 | [0048-rotate-image](https://github.com/Lapnotsosus/L/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Lapnotsosus/L/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Lapnotsosus/L/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lapnotsosus/L/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Lapnotsosus/L/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Lapnotsosus/L/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
@@ -493,6 +495,7 @@
 | [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lapnotsosus/L/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Lapnotsosus/L/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lapnotsosus/L/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Lapnotsosus/L/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lapnotsosus/L/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Lapnotsosus/L/tree/master/0234-palindrome-linked-list) |
