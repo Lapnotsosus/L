@@ -271,6 +271,7 @@
 | [0202-happy-number](https://github.com/Lapnotsosus/L/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Lapnotsosus/L/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lapnotsosus/L/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/Lapnotsosus/L/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Lapnotsosus/L/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Lapnotsosus/L/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lapnotsosus/L/tree/master/0380-insert-delete-getrandom-o1) |
@@ -711,6 +712,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lapnotsosus/L/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lapnotsosus/L/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lapnotsosus/L/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/Lapnotsosus/L/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/Lapnotsosus/L/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Lapnotsosus/L/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
@@ -720,6 +722,7 @@
 | [0101-symmetric-tree](https://github.com/Lapnotsosus/L/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lapnotsosus/L/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lapnotsosus/L/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/Lapnotsosus/L/tree/master/0365-water-and-jug-problem) |
 | [0617-merge-two-binary-trees](https://github.com/Lapnotsosus/L/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -744,4 +747,20 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Lapnotsosus/L/tree/master/0543-diameter-of-binary-tree) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Lapnotsosus/L/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Lapnotsosus/L/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Lapnotsosus/L/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Lapnotsosus/L/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
