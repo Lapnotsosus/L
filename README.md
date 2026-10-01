@@ -494,6 +494,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Lapnotsosus/L/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lapnotsosus/L/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Lapnotsosus/L/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lapnotsosus/L/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -523,6 +524,7 @@
 | [0013-roman-to-integer](https://github.com/Lapnotsosus/L/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/Lapnotsosus/L/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Lapnotsosus/L/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Lapnotsosus/L/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Lapnotsosus/L/tree/master/0205-isomorphic-strings) |
