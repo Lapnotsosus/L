@@ -111,6 +111,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lapnotsosus/L/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lapnotsosus/L/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Lapnotsosus/L/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Lapnotsosus/L/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Lapnotsosus/L/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lapnotsosus/L/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Lapnotsosus/L/tree/master/2540-minimum-common-value) |
