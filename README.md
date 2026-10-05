@@ -385,6 +385,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lapnotsosus/L/tree/master/0054-spiral-matrix) |
+| [0657-robot-return-to-origin](https://github.com/Lapnotsosus/L/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Lapnotsosus/L/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Lapnotsosus/L/tree/master/1920-build-array-from-permutation) |
@@ -542,6 +543,7 @@
 | [0556-next-greater-element-iii](https://github.com/Lapnotsosus/L/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0657-robot-return-to-origin](https://github.com/Lapnotsosus/L/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/Lapnotsosus/L/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lapnotsosus/L/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
