@@ -157,6 +157,7 @@
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lapnotsosus/L/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lapnotsosus/L/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Lapnotsosus/L/tree/master/0451-sort-characters-by-frequency) |
@@ -540,6 +541,7 @@
 | [0383-ransom-note](https://github.com/Lapnotsosus/L/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lapnotsosus/L/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lapnotsosus/L/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lapnotsosus/L/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Lapnotsosus/L/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Lapnotsosus/L/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Lapnotsosus/L/tree/master/0556-next-greater-element-iii) |
@@ -646,6 +648,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lapnotsosus/L/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Lapnotsosus/L/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lapnotsosus/L/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lapnotsosus/L/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Lapnotsosus/L/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Lapnotsosus/L/tree/master/0904-fruit-into-baskets) |
