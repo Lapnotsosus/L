@@ -544,6 +544,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Lapnotsosus/L/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Lapnotsosus/L/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Lapnotsosus/L/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Lapnotsosus/L/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/Lapnotsosus/L/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Lapnotsosus/L/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lapnotsosus/L/tree/master/0599-minimum-index-sum-of-two-lists) |
