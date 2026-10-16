@@ -516,6 +516,7 @@
 | [0682-baseball-game](https://github.com/Lapnotsosus/L/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lapnotsosus/L/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lapnotsosus/L/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Lapnotsosus/L/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lapnotsosus/L/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lapnotsosus/L/tree/master/2104-sum-of-subarray-ranges) |
@@ -554,6 +555,7 @@
 | [0692-top-k-frequent-words](https://github.com/Lapnotsosus/L/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lapnotsosus/L/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Lapnotsosus/L/tree/master/0791-custom-sort-string) |
+| [0856-score-of-parentheses](https://github.com/Lapnotsosus/L/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lapnotsosus/L/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lapnotsosus/L/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -777,6 +779,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lapnotsosus/L/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Lapnotsosus/L/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lapnotsosus/L/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
